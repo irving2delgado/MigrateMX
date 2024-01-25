@@ -233,3 +233,11 @@ TABLE OF CONTENTS:
 @import url("_image-filter.css");
 @import url("_menu-effect.css");
 @import url("_site-darkmode.css");
+
+.mexican-red {
+  color: #CE1126; /* Mexican red color */
+}
+
+.mexican-green {
+  color: #009839; /* Mexican green color */
+}

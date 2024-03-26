@@ -284,3 +284,4 @@ $(document).on('ready', function() {
 $(window).scroll(function() {
 	fixNavbar();
 });
+
